@@ -9,6 +9,11 @@ The project demonstrates the use of Excel for data cleaning, transformation, ana
 Note: The dataset used in this project is simulated and created for educational and portfolio purposes.
 
 ---
+📊 Dashboard Preview
+
+![FMCG Sales Dashboard](Dashboard_Screenshot.png)
+
+---
 
 🎯 Business Objectives
 
